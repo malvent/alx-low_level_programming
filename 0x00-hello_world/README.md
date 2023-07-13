@@ -6,3 +6,4 @@
 * 3-name		(script that compiles aand creates an executable named cisfun)
 * 4-puts.c		(C program that prints exactly "Programing is like building a multilingual puzzle)
 * 5-print.c		(C program that prints exactly with proper grammer, but the outcome is a piece of art,)
+* 6-size.c		(C program that prints the size of various types on the computer it is compiled and run on)
