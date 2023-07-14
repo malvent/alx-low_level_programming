@@ -6,3 +6,4 @@
 * 3-print_alphabets.c			(program that prints the alphabet in lowercase, and then in uppercase)
 * 4-print_alphabt.c			(program that prints lowercase letters except e and q)
 * 5-print_numbers.c			(program that prints single digit numbers)
+* 6-print_numberz.c			(program that print single digit numbers (restrictive))
