@@ -12,7 +12,7 @@ void more_numbers(void)
 
 	n = '0';
 	repeat = 0;
-	limit = '0';
+	limit = '9';
 
 	for (line = 0; line < 10; line++)
 	{
