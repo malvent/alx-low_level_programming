@@ -9,3 +9,4 @@
 * 6-puts2.c		(function that prints every other character of a string, starting with the first character, followed by a new line)
 * 7-puts_half.c		(function that prints half of a string)
 * 8-print_array.c	(function that prints n elements of an array of integers, followed by a new line)
+* 9-strcpy.c		(unction that copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest)
